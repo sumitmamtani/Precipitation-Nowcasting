@@ -3,8 +3,8 @@
 - Maitreya Sonawane (New York University, mss9240)
 - Sumit Mamtani (New York University, sm9669)
 
-Research Paper Link - https://drive.google.com/file/d/1v_WC_F7IisdKy8d-0te5UrvLwVBer86d/view?usp=sharing
-Cleaned Dataset Link - https://drive.google.com/file/d/1y1neDWLtT8M3jELEQ-zk5i9eTjxJy2Wk/view?usp=sharing
+-[1] Research Paper Link - https://drive.google.com/file/d/1v_WC_F7IisdKy8d-0te5UrvLwVBer86d/view?usp=sharing
+-[2] Cleaned Dataset Link - https://drive.google.com/file/d/1y1neDWLtT8M3jELEQ-zk5i9eTjxJy2Wk/view?usp=sharing
 
 The GitHub repository contains the code used in final project for Computer Vision - CSCI-GA.2271-001 (Fall 2021).
 
