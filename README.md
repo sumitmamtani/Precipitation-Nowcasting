@@ -7,6 +7,12 @@
 -[1] Research Paper Link - https://drive.google.com/file/d/1v_WC_F7IisdKy8d-0te5UrvLwVBer86d/view?usp=sharing 
 -[2] Cleaned Dataset Link - https://drive.google.com/file/d/1y1neDWLtT8M3jELEQ-zk5i9eTjxJy2Wk/view?usp=sharing
 
+## Steps to run the code:
+- First Download the cleaned dataset numpy dump object from the above drive link
+- For running .ipynb files you can directly run in jupyter notebook or Google Colab.
+- For running .py files execute the following command in terminal
+- python UNet_with_axial_transformer.py
+
 The GitHub repository contains the code used in final project for Computer Vision - CSCI-GA.2271-001 (Fall 2021).
 
 ### Abstract:
